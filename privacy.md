@@ -25,15 +25,15 @@ This Application does not collect precise information about the location of your
 
 Please note that the Application does not transmit any personal information. We will share your information with third parties only in the ways that are described in this privacy statement.  
 
-## Children
+## Children
 
 We do not use the Application to knowingly solicit data from or market to children.
 
-## Security
+## Security
 
 The developer does not collect or store any data.
 
-## Changes
+## Changes
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
